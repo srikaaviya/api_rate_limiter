@@ -1,0 +1,14 @@
+# .gitignore for Django project
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+*.sqlite3
+*.log
+
+# PyCharm
+.idea/
+
+# Virtual env
+venv/
+.venv/
